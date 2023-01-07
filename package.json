@@ -1,0 +1,15 @@
+{
+  "name": "video-npm-update",
+  "version": "0.0.0",
+  "description": "",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "update": "npx npm-check --update"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "release-please": "^15.1.1"
+  }
+}
